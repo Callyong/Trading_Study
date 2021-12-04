@@ -1,3 +1,2 @@
-Index,Buy_Price,Target,Stop Loss,Status,Gain
-1,0,0,0,close,0
-1,0,0,0,close,0
+Index,Buy_Price,Target,Stop Loss,Status,Gain,Invest(usdt)
+1,0,0,0,close,0,4000
